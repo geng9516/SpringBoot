@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aae3e7ed-78c5-4a0b-a13b-ca86f728ff65" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/001-springboot-first/target/" />
+    <ignored path="$PROJECT_DIR$/002-springboot-springmvc/target/" />
+    <ignored path="$PROJECT_DIR$/003-springboot-context-path/target/" />
+    <ignored path="$PROJECT_DIR$/004-springboot-properties-yml-yaml/target/" />
+    <ignored path="$PROJECT_DIR$/005-springboot-allboth-properties-yml/target/" />
+    <ignored path="$PROJECT_DIR$/006-springboot-multi-environment-properties/target/" />
+    <ignored path="$PROJECT_DIR$/007-springboot-multi-environment-yml/target/" />
+    <ignored path="$PROJECT_DIR$/008-springboot-custom-configuration/target/" />
+    <ignored path="$PROJECT_DIR$/009-springboot-custom-configuration-2/target/" />
+    <ignored path="$PROJECT_DIR$/010-springboot-jsp/target/" />
+    <ignored path="$PROJECT_DIR$/b/target/" />
+    <ignored path="$PROJECT_DIR$/011-springboot-myself/target/" />
+    <ignored path="$PROJECT_DIR$/012-springboot-mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/013-springboot-mybatis-2/target/" />
+    <ignored path="$PROJECT_DIR$/014-springboot-mybatis-3/target/" />
+    <ignored path="$PROJECT_DIR$/015-springboot-mybatis-4/target/" />
+    <ignored path="$PROJECT_DIR$/016-springboot-transacation/target/" />
+    <ignored path="$PROJECT_DIR$/017-springboot-springmvc/target/" />
+    <ignored path="$PROJECT_DIR$/018-springboot-RESTful/target/" />
+    <ignored path="$PROJECT_DIR$/019-springboot-redis/target/" />
+    <ignored path="$PROJECT_DIR$/020-springboot-dubbo-interface/target/" />
+    <ignored path="$PROJECT_DIR$/021-springboot-dubbo-provider/target/" />
+    <ignored path="$PROJECT_DIR$/022-springboot-dubbo-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/023-springboot-dubbo-ssm-interface/target/" />
+    <ignored path="$PROJECT_DIR$/024-springboot-dubbo-ssm-provider/target/" />
+    <ignored path="$PROJECT_DIR$/025-springboot-dubbo-ssm-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/026-springboot-java-1/target/" />
+    <ignored path="$PROJECT_DIR$/027-springboot-java-2/target/" />
+    <ignored path="$PROJECT_DIR$/028-springboot-close-logo/target/" />
+    <ignored path="$PROJECT_DIR$/029-springboot-modify-logo/target/" />
+    <ignored path="$PROJECT_DIR$/029-springboot-update-logo/target/" />
+    <ignored path="$PROJECT_DIR$/030-springboot-interceptor/target/" />
+    <ignored path="$PROJECT_DIR$/031-springboot-servlet-1/target/" />
+    <ignored path="$PROJECT_DIR$/032-springboot-servlet-2/target/" />
+    <ignored path="$PROJECT_DIR$/033-springboot-filter-1/target/" />
+    <ignored path="$PROJECT_DIR$/034-springboot-filter-2/target/" />
+    <ignored path="$PROJECT_DIR$/035-springboot-character-encoding-1/target/" />
+    <ignored path="$PROJECT_DIR$/036-springboot-character-encoding-2/target/" />
+    <ignored path="$PROJECT_DIR$/037-springboot-war/target/" />
+    <ignored path="$PROJECT_DIR$/038-springboot-jar/target/" />
+    <ignored path="$PROJECT_DIR$/039-springboot-logback/target/" />
+    <ignored path="$PROJECT_DIR$/040-springboot-thymeleaf-first/target/" />
+    <ignored path="$PROJECT_DIR$/041-springboot-thymeleaf/target/" />
+    <ignored path="$PROJECT_DIR$/042-test/target/" />
+    <ignored path="$PROJECT_DIR$/042-springboot-thymeleaf-expression/target/" />
+    <ignored path="$PROJECT_DIR$/043-springboot-thymeleaf/target/" />
+    <ignored path="$PROJECT_DIR$/044-springboot-thymeleaf-if/target/" />
+    <ignored path="$PROJECT_DIR$/045-springboot-thymeleaf-inline/target/" />
+    <ignored path="$PROJECT_DIR$/046-springboot-thymeleaf-literal/target/" />
+    <ignored path="$PROJECT_DIR$/047-springboot-thymeleaf-operator/target/" />
+    <ignored path="$PROJECT_DIR$/048-springboot-thymeleaf/target/" />
+    <ignored path="$PROJECT_DIR$/049-springboot-thymeleaf-function/target/" />
+    <ignored path="$PROJECT_DIR$/050-springboot-parent/target/" />
+    <ignored path="$PROJECT_DIR$/051-springboot-dubbo-ssm-interface/target/" />
+    <ignored path="$PROJECT_DIR$/052-springboot-dubbo-ssm-provider/target/" />
+    <ignored path="$PROJECT_DIR$/053-springboot-dubbo-ssm-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="IDEA-springboot-projectes" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/052-springboot-dubbo-ssm-provider/src/main/resources/application-dev.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="192" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="192" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/048-springboot-thymeleaf/src/main/resources/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="29" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/030-springboot-interceptor/src/main/java/com/bjpowernode/springboot/interceptor/UserInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/030-springboot-interceptor/src/main/java/com/bjpowernode/springboot/config/InterceptorConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spring-boot-starter-web</find>
+      <find>{mysql.version</find>
+      <find>${mysql.version}</find>
+      <find>mysql</find>
+      <find>mybatis-spring-boot-starter</find>
+      <find>logback</find>
+      <find>jdbc:mysql://192.168.154.128:3306/springboot?useUnicode=true&amp;characterEncoding=UTF-8&amp;useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimeCode=false&amp;serverTimezone=GMT%2B8</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/043-springboot-thymeleaf/src/main/resources/templates/eachMap.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/042-springboot-thymeleaf-expression/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/042-springboot-thymeleaf-expression/pom.xml" />
+        <option value="$PROJECT_DIR$/041-springboot-thymeleaf/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/042-springboot-thymeleaf-expression/src/main/resources/templates/userDetail.html" />
+        <option value="$PROJECT_DIR$/042-springboot-thymeleaf-expression/src/main/resources/templates/url2.html" />
+        <option value="$PROJECT_DIR$/042-springboot-thymeleaf-expression/src/main/resources/templates/url.html" />
+        <option value="$PROJECT_DIR$/042-springboot-thymeleaf-expression/src/main/java/com/bjpowernode/springboot/web/UserController.java" />
+        <option value="$PROJECT_DIR$/042-springboot-thymeleaf-expression/src/main/resources/templates/property.html" />
+        <option value="$PROJECT_DIR$/043-springboot-thymeleaf/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/043-springboot-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/043-springboot-thymeleaf/src/main/java/com/bjpowernode/springboot/model/User.java" />
+        <option value="$PROJECT_DIR$/043-springboot-thymeleaf/src/main/resources/templates/eachList.html" />
+        <option value="$PROJECT_DIR$/043-springboot-thymeleaf/src/main/resources/templates/eachMap.html" />
+        <option value="$PROJECT_DIR$/043-springboot-thymeleaf/src/main/resources/templates/eachArray.html" />
+        <option value="$PROJECT_DIR$/043-springboot-thymeleaf/src/main/java/com/bjpowernode/springboot/web/UserController.java" />
+        <option value="$PROJECT_DIR$/043-springboot-thymeleaf/src/main/resources/templates/eachAll.html" />
+        <option value="$PROJECT_DIR$/044-springboot-thymeleaf-if/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/044-springboot-thymeleaf-if/src/main/java/com/bjpowernode/springboot/web/UserController.java" />
+        <option value="$PROJECT_DIR$/044-springboot-thymeleaf-if/src/main/resources/templates/condition.html" />
+        <option value="$PROJECT_DIR$/045-springboot-thymeleaf-inline/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/045-springboot-thymeleaf-inline/src/main/java/com/bjpowernode/springboot/web/UserController.java" />
+        <option value="$PROJECT_DIR$/045-springboot-thymeleaf-inline/src/main/resources/templates/inline-test.html" />
+        <option value="$PROJECT_DIR$/046-springboot-thymeleaf-literal/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/046-springboot-thymeleaf-literal/src/main/java/com/bjpowernode/springboot/model/User.java" />
+        <option value="$PROJECT_DIR$/046-springboot-thymeleaf-literal/src/main/resources/templates/literal.html" />
+        <option value="$PROJECT_DIR$/046-springboot-thymeleaf-literal/src/main/java/com/bjpowernode/springboot/web/UserController.java" />
+        <option value="$PROJECT_DIR$/046-springboot-thymeleaf-literal/src/main/resources/templates/splice.html" />
+        <option value="$PROJECT_DIR$/047-springboot-thymeleaf-operator/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/047-springboot-thymeleaf-operator/src/main/java/com/bjpowernode/springboot/web/UserController.java" />
+        <option value="$PROJECT_DIR$/047-springboot-thymeleaf-operator/src/main/resources/templates/operator.html" />
+        <option value="$PROJECT_DIR$/048-springboot-thymeleaf/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/048-springboot-thymeleaf/src/main/java/com/bjpowernode/springboot/web/UserController.java" />
+        <option value="$PROJECT_DIR$/048-springboot-thymeleaf/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/049-springboot-thymeleaf-function/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/049-springboot-thymeleaf-function/src/main/java/com/bjpowernode/springboot/web/UserController.java" />
+        <option value="$PROJECT_DIR$/049-springboot-thymeleaf-function/src/main/resources/templates/function.html" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/050-springboot-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/053-springboot-dubbo-ssm-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/052-springboot-dubbo-ssm-provider/GeneratorMapper.xml" />
+        <option value="$PROJECT_DIR$/052-springboot-dubbo-ssm-provider/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/053-springboot-dubbo-ssm-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/053-springboot-dubbo-ssm-consumer/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/051-springboot-dubbo-ssm-interface/src/main/java/com/bjpowernode/springboot/service/StudentService.java" />
+        <option value="$PROJECT_DIR$/052-springboot-dubbo-ssm-provider/src/main/java/com/bjpowernode/springboot/service/StudentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/053-springboot-dubbo-ssm-consumer/src/main/java/com/bjpowernode/springboot/web/StudentController.java" />
+        <option value="$PROJECT_DIR$/052-springboot-dubbo-ssm-provider/src/main/java/com/bjpowernode/springboot/Application.java" />
+        <option value="$PROJECT_DIR$/052-springboot-dubbo-ssm-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/053-springboot-dubbo-ssm-consumer/src/main/java/com/bjpowernode/springboot/Application.java" />
+        <option value="$PROJECT_DIR$/053-springboot-dubbo-ssm-consumer/src/main/resources/templates/studentDetail.html" />
+        <option value="$PROJECT_DIR$/051-springboot-dubbo-ssm-interface/src/main/java/com/bjpowernode/springboot/model/Student.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\course-repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="052-springboot-dubbo-ssm-provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="052-springboot-dubbo-ssm-provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="052-springboot-dubbo-ssm-provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="496" />
+    <option name="width" value="864" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IDEA-springboot-projectes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="030-springboot-interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA-springboot-projectes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="030-springboot-interceptor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA-springboot-projectes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="030-springboot-interceptor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA-springboot-projectes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="030-springboot-interceptor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA-springboot-projectes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="030-springboot-interceptor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA-springboot-projectes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="030-springboot-interceptor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bjpowernode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA-springboot-projectes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="030-springboot-interceptor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bjpowernode" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA-springboot-projectes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="030-springboot-interceptor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bjpowernode" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA-springboot-projectes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="030-springboot-interceptor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bjpowernode" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA-springboot-projectes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="048-springboot-thymeleaf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA-springboot-projectes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="048-springboot-thymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA-springboot-projectes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="048-springboot-thymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA-springboot-projectes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="048-springboot-thymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA-springboot-projectes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="048-springboot-thymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA-springboot-projectes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="048-springboot-thymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IDEA-springboot-projectes" type="58d84e3e:PackageViewProjectNode" />
+              <item name="042-springboot-thymeleaf-expression" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584757467102" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/052-springboot-dubbo-ssm-provider/src/main/java/com/bjpowernode/springboot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/038-springboot-jar/src/main/webapp" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\course\22-springboot\code-18\IDEA-springboot-projectes\015-springboot-mybatis-4\src\main\resources\mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\course\22-springboot\code-18\IDEA-springboot-projectes\053-springboot-dubbo-ssm-consumer\src\main\resources" />
+      <recent name="D:\course\22-springboot\code-18\IDEA-springboot-projectes\052-springboot-dubbo-ssm-provider\src\main\resources" />
+      <recent name="D:\course\22-springboot\code-18\IDEA-springboot-projectes\052-springboot-dubbo-ssm-provider" />
+      <recent name="D:\course\22-springboot\code-18\IDEA-springboot-projectes\042-springboot-thymeleaf-expression\src\main\resources\static\js" />
+      <recent name="D:\course\22-springboot\code-18\IDEA-springboot-projectes\042-springboot-thymeleaf-expression\src\main\resources\static\img" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bjpowernode.springboot" />
+      <recent name="com.bjpowernode.springboot.model" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bjpowernode.springboot.service" />
+      <recent name="com.bjpowernode.springboot.service.impl" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn 013-springboot-mybatis-2 clean" />
+      <command value="mvn 014-springboot-mybatis-3 clean" />
+      <command value="mvn 014-springboot-mybatis-3 compile" />
+      <command value="mvn 017-springboot-springmvc clean" />
+      <command value="mvn 021-springboot-dubbo-provider clean" />
+      <command value="mvn 022-springboot-dubbo-consumer clean" />
+      <command value="mvn 024-springboot-dubbo-ssm-provider clean" />
+      <command value="mvn 025-springboot-dubbo-ssm-consumer clean" />
+      <command value="mvn 023-springboot-dubbo-ssm-interface install" />
+      <command value="mvn 035-springboot-character-encoding-1 clean" />
+      <command value="mvn 039-springboot-logback clean" />
+      <command value="mvn 042-springboot-thymeleaf-expression clean" />
+      <command value="mvn 050-springboot-parent install" />
+      <command value="mvn 051-springboot-dubbo-ssm-interface install" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.053-springboot-dubbo-ssm-consumer">
+    <configuration name="052-springboot-dubbo-ssm-provider" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="052-springboot-dubbo-ssm-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bjpowernode.springboot.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="053-springboot-dubbo-ssm-consumer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="053-springboot-dubbo-ssm-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bjpowernode.springboot.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.052-springboot-dubbo-ssm-provider" />
+      <item itemvalue="Spring Boot.053-springboot-dubbo-ssm-consumer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.053-springboot-dubbo-ssm-consumer" />
+        <item itemvalue="Spring Boot.052-springboot-dubbo-ssm-provider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aae3e7ed-78c5-4a0b-a13b-ca86f728ff65" name="Default Changelist" comment="" />
+      <created>1583371264385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583371264385</updated>
+      <workItem from="1583371267019" duration="13212000" />
+      <workItem from="1583396171017" duration="720000" />
+      <workItem from="1583456142699" duration="14367000" />
+      <workItem from="1583542593353" duration="14534000" />
+      <workItem from="1583565806527" duration="486000" />
+      <workItem from="1583714149342" duration="5958000" />
+      <workItem from="1583720319660" duration="12249000" />
+      <workItem from="1583740044502" duration="1164000" />
+      <workItem from="1583801733230" duration="15183000" />
+      <workItem from="1583888467379" duration="14770000" />
+      <workItem from="1583973599858" duration="4581000" />
+      <workItem from="1584061029055" duration="3933000" />
+      <workItem from="1584156818376" duration="613000" />
+      <workItem from="1584498167717" duration="98000" />
+      <workItem from="1584755651756" duration="755000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="102623000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5016077" side_tool="true" weight="0.33206686" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49839228" visible="true" weight="0.38297874" />
+      <window_info id="Structure" order="7" sideWeight="0.5016077" side_tool="true" weight="0.27279636" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.329582" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.329582" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.329582" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.7893891" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" weight="0.329582" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Word Book" order="1" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.24088146" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5016077" side_tool="true" weight="0.33206686" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49839228" visible="true" weight="0.38297874" />
+      <window_info id="Structure" order="7" sideWeight="0.5016077" side_tool="true" weight="0.27279636" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.329582" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.329582" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.329582" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.7893891" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" weight="0.329582" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Word Book" order="1" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.24088146" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/044-springboot-thymeleaf-if/src/main/resources/templates/condition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/045-springboot-thymeleaf-inline/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/045-springboot-thymeleaf-inline/src/main/java/com/bjpowernode/springboot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/045-springboot-thymeleaf-inline/src/main/java/com/bjpowernode/springboot/web/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/045-springboot-thymeleaf-inline/src/main/resources/templates/inline-test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/046-springboot-thymeleaf-literal/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/046-springboot-thymeleaf-literal/src/main/java/com/bjpowernode/springboot/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/046-springboot-thymeleaf-literal/src/main/java/com/bjpowernode/springboot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/046-springboot-thymeleaf-literal/src/main/resources/templates/literal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/046-springboot-thymeleaf-literal/src/main/java/com/bjpowernode/springboot/web/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/046-springboot-thymeleaf-literal/src/main/resources/templates/splice.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/047-springboot-thymeleaf-operator/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/047-springboot-thymeleaf-operator/src/main/java/com/bjpowernode/springboot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/047-springboot-thymeleaf-operator/src/main/java/com/bjpowernode/springboot/web/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/047-springboot-thymeleaf-operator/src/main/resources/templates/operator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/048-springboot-thymeleaf/src/main/java/com/bjpowernode/springboot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/048-springboot-thymeleaf/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/048-springboot-thymeleaf/src/main/java/com/bjpowernode/springboot/web/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/049-springboot-thymeleaf-function/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/049-springboot-thymeleaf-function/src/main/java/com/bjpowernode/springboot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/049-springboot-thymeleaf-function/src/main/java/com/bjpowernode/springboot/web/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/049-springboot-thymeleaf-function/src/main/resources/templates/function.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.2.5.RELEASE/spring-boot-starter-parent-2.2.5.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.5.RELEASE/spring-boot-dependencies-2.2.5.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/051-springboot-dubbo-ssm-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/015-springboot-mybatis-4/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="66" column="21" lean-forward="true" selection-start-line="55" selection-start-column="12" selection-end-line="66" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/052-springboot-dubbo-ssm-provider/GeneratorMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/015-springboot-mybatis-4/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="192" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="192" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/052-springboot-dubbo-ssm-provider/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/052-springboot-dubbo-ssm-provider/src/main/resources/application-product.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/053-springboot-dubbo-ssm-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/053-springboot-dubbo-ssm-consumer/src/main/resources/application-product.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/053-springboot-dubbo-ssm-consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/052-springboot-dubbo-ssm-provider/src/main/java/com/bjpowernode/springboot/service/StudentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="17" column="78" selection-start-line="17" selection-start-column="78" selection-end-line="17" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/051-springboot-dubbo-ssm-interface/src/main/java/com/bjpowernode/springboot/service/StudentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/053-springboot-dubbo-ssm-consumer/src/main/java/com/bjpowernode/springboot/web/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/053-springboot-dubbo-ssm-consumer/src/main/resources/templates/studentDetail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/052-springboot-dubbo-ssm-provider/src/main/java/com/bjpowernode/springboot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/053-springboot-dubbo-ssm-consumer/src/main/java/com/bjpowernode/springboot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/053-springboot-dubbo-ssm-consumer/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/051-springboot-dubbo-ssm-interface/src/main/java/com/bjpowernode/springboot/model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/050-springboot-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/024-springboot-dubbo-ssm-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="61" column="7" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/052-springboot-dubbo-ssm-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="93" lean-forward="true" selection-start-line="81" selection-start-column="12" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/042-springboot-thymeleaf-expression/src/main/resources/templates/url2.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/042-springboot-thymeleaf-expression/src/main/resources/templates/url.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/052-springboot-dubbo-ssm-provider/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="192" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="192" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/048-springboot-thymeleaf/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="29" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/030-springboot-interceptor/src/main/java/com/bjpowernode/springboot/interceptor/UserInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/030-springboot-interceptor/src/main/java/com/bjpowernode/springboot/config/InterceptorConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>038-springboot-jar:Web exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|038-springboot-jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
